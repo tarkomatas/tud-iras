@@ -1,1 +1,1 @@
-# tud-iras
+# This page is for educational material
