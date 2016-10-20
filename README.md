@@ -1,1 +1,1 @@
-# This page is for educational material
+# This repository is for educational use
