@@ -1,1 +1,1 @@
-# This repository is for educational use
+# Materials of the 'tudományos írás, retorika, prezentáció' univeristy course
